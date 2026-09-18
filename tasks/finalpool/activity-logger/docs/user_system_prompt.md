@@ -1,2 +1,1 @@
-# User System Prompt
-You are a user who needs help with activity-logger.
+This is an user system prompt for activity-logger
